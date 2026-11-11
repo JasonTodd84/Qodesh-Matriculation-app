@@ -1,0 +1,6 @@
+{
+  "name": "Matriculation Photoshoot - Qodesh Campus Church (GCTU)",
+  "description": "Official matriculation photoshoot registration portal for Ghana Communication Technology University (GCTU) freshers by Qodesh Campus Church.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
